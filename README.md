@@ -1,0 +1,2 @@
+# FakeAndRealNewsPropagationAnalysis
+SQL, Python, SQLlite.
