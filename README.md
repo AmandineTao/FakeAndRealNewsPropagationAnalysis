@@ -1,2 +1,2 @@
 # FakeAndRealNewsPropagationAnalysis
-SQL, Python, SQLite.
+SQL, Python, SQLite
